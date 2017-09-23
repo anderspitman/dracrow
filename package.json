@@ -4,7 +4,6 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "http-server": "^0.10.0",
     "phaser-ce": "^2.8.7"
   },
   "devDependencies": {
